@@ -1,0 +1,18 @@
+#container {
+    /* margin: 0px auto; */
+    margin: auto;
+    position: relative;
+    width: 300px;
+    height: 250px;
+    border: 2px rgb(210, 94, 40) solid;
+}
+#videoElement {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(134, 122, 122);
+}
+
+#title{
+    margin: auto;
+    text-align: center;
+}
